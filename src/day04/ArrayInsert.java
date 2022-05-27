@@ -20,6 +20,7 @@ public class ArrayInsert {
         }
         arr = temp;
         temp = null;
+        System.out.println(Arrays.toString(arr));
         // 타겟과 이후의 값을 뒤로 한칸씩 옮기기
         for (int i = arr.length-1; i > 0; i--) {
             arr[i] = arr[i-1];

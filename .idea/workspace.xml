@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd00e71-51c6-430e-b709-cc7c3733044b" name="Changes" comment="[22.05.18] java_study">
-      <change afterPath="$PROJECT_DIR$/src/day05/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/ScannerProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/backQuiz/Quiz04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/backQuiz/Quiz05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/backQuiz/Quiz06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/backQuiz/Quiz07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/MethodBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/MethodParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/MethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/MethodReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/backQuiz/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/backQuiz/Quiz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/backQuiz/Quiz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/backQuiz/Quiz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/FieldVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/PhoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/PhoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/StringEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/StringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day08/PersonMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/ArrayInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/ArrayInsert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day05/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/Quiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day05/backQuiz/Quiz03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/backQuiz/Quiz03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +63,25 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.day05.Quiz">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SR\java_study\java_study\src\day07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.FieldVariable">
+    <configuration name="ArrayInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayInsert" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casting1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02.Casting1" />
       <module name="java_study" />
@@ -105,12 +134,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.Matrix" />
+    <configuration name="FieldVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day07.FieldVariable" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.MethodPractice" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.backQuiz.Quiz05" />
+    <configuration name="Quiz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.backQuiz.Quiz01" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.backQuiz.*" />
+          <option name="PATTERN" value="day06.backQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,38 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.backQuiz.Quiz06" />
+    <configuration name="Quiz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.backQuiz.Quiz02" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day05.backQuiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.ScannerProblem" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day05.Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05.Quiz" />
-      <module name="java_study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05.*" />
+          <option name="PATTERN" value="day06.backQuiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.day05.Quiz" />
-        <item itemvalue="애플리케이션.ScannerProblem" />
-        <item itemvalue="애플리케이션.Matrix" />
-        <item itemvalue="애플리케이션.Quiz06" />
-        <item itemvalue="애플리케이션.Quiz05" />
+        <item itemvalue="애플리케이션.FieldVariable" />
+        <item itemvalue="애플리케이션.Quiz02" />
+        <item itemvalue="애플리케이션.Quiz01" />
+        <item itemvalue="애플리케이션.MethodPractice" />
+        <item itemvalue="애플리케이션.ArrayInsert" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653353374892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[22.05.18] java_study">
+      <created>1653383028889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653383028889</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
