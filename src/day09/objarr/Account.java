@@ -8,6 +8,7 @@ public class Account {
 
     // 생성자
     Account(Person p) {
+
         this.owner = p;
     }
 }
