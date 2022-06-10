@@ -8,6 +8,8 @@ public class Player extends Object {
     public int hp;  // 체력
     public int exp;
 
+
+
     public Player(String name) {
         System.out.println("Player 생성자 호출!");
         this.name = name;

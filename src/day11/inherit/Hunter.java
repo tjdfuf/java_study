@@ -20,4 +20,5 @@ public class Hunter extends Player {
         System.out.println("# arrow : " + arrow);
     }
 
+
 }
