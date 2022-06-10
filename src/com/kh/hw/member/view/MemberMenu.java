@@ -180,7 +180,6 @@ public class MemberMenu {
         } else {
             System.out.println("\n수정 실패!");
         }
-
     }
 
     private void updateEmail() {

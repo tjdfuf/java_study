@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd00e71-51c6-430e-b709-cc7c3733044b" name="Changes" comment="[22.05.18] java_study">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/controller/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/model/vo/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemberMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/model/vo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/run/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kh/practice/student/view/StudentMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/doubly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/doubly/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap02/linkedlist/doubly/SentinelNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap03/구간_합_구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap03/구간_합_구하기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap03/구간_합_구하기2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/chap03/구간_합_구하기2_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day09/objarr/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day09/objarr/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemberMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kh/hw/member/view/MemberMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +48,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/SR/java_study/java_study",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SR/java_study/java_study&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day09" />
@@ -75,7 +70,7 @@
       <recent name="C:\SR\java_study\java_study\src\com\kh\example\practice5\run" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Test">
+  <component name="RunManager" selected="애플리케이션.구간_합_구하기2">
     <configuration name="Casting1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02.Casting1" />
       <module name="java_study" />
@@ -128,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.Quiz" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap02.linkedlist.doubly.Main" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="datastructure.chap02.linkedlist.doubly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kh.practice.student.run.Run" />
+    <configuration name="Quiz" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02.Quiz" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kh.practice.student.run.*" />
+          <option name="PATTERN" value="day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kh.hw.member.model.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kh.hw.member.model.Main" />
+    <configuration name="구간_합_구하기2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap03.구간_합_구하기2" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kh.hw.member.model.*" />
+          <option name="PATTERN" value="datastructure.chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.Main" />
+    <configuration name="datastructure.chap03.구간_합_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.chap03.구간_합_구하기" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.*" />
+          <option name="PATTERN" value="datastructure.chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.구간_합_구하기2" />
+        <item itemvalue="애플리케이션.datastructure.chap03.구간_합_구하기" />
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Test" />
         <item itemvalue="애플리케이션.com.kh.hw.member.run.Run" />
-        <item itemvalue="애플리케이션.com.kh.hw.member.model.Main" />
-        <item itemvalue="애플리케이션.Run" />
-        <item itemvalue="애플리케이션.day10.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653901831881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[22.05.18] java_study">
+      <created>1653988526871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653988526871</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
