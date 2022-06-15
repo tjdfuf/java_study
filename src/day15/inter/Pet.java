@@ -10,5 +10,13 @@ public interface Pet {
 
     void play(); // 애완동물이 노는 기능
 
+    // 추상메서드 추가 이후 강제 오버라이딩을 막아준다
+    // 여기서는 내용을 채우지 않고 필요한 클래스에 오버라이딩해서 쓴다
+    default void smile() {}
+
+    // 이 인터페이스를 쓰는 클래스 모두에게 적용
+    static void m1() {
+        System.out.println("hello");
+    }
 
 }
